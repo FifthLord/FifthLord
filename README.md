@@ -1,8 +1,8 @@
-
+<!--
 <div style="text-align: center;">
    <img src='https://github.com/FifthLord/FifthLord/blob/main/assets/7236947848c2586fc91d610d46d7a117d7bd7c73_hq.gif'/>
 </div>
-
+-->
 ## Hi there 👋 I`m beginner web engineer specializing in Front-end development.
 
 ### Languages and Tools
