@@ -1,7 +1,8 @@
-<img>![Header](https://github.com/FifthLord/FifthLord/blob/main/assets/7236947848c2586fc91d610d46d7a117d7bd7c73_hq.gif)
-</img>
 
-## I`m beginner web engineer specializing in Front-end development.
+<div style="text-align: center;">![Header](https://github.com/FifthLord/FifthLord/blob/main/assets/7236947848c2586fc91d610d46d7a117d7bd7c73_hq.gif)
+</div>
+
+## Hi there 👋 I`m beginner web engineer specializing in Front-end development.
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
@@ -15,7 +16,7 @@
 
 
 ### Follow me
-[![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](www.linkedin.com/in/mykolaborysenko)
+[![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mykola-borysenko/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Hamafac)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/hamafac/)
 
