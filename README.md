@@ -20,8 +20,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mykola-borysenko/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Hamafac)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/hamafac/)
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FifthLord&layout=compact)](https://github.com/FifthLord/github-readme-stats)
 
 - ⚡ Fun fact: I love reading Chinese fantasy wuxia
--->
