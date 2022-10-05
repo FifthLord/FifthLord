@@ -22,5 +22,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/hamafac/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FifthLord&layout=compact)](https://github.com/FifthLord/github-readme-stats)
-
+<!--
 - ⚡ Fun fact: I love reading Chinese fantasy wuxia
+-->
