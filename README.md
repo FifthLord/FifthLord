@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor=764abc)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![Node.js](https://img.shields.io/badge/Node.js(npm)-090909?style=for-the-badge&logo=Node.js)
+![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=264de4)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT)
