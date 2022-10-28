@@ -23,5 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FifthLord&layout=compact)](https://github.com/FifthLord/github-readme-stats)
 <!--
-- ⚡ Fun fact: I love reading Chinese fantasy wuxia
+- ⚡ Fun fact: I love reading Chinese fantasy wuxia 
+     And i writing this on my phone
 -->
