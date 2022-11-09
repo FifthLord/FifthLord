@@ -16,7 +16,7 @@
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT)
 
 
-### Follow me
+### My social networks
 [![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mykola-borysenko/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Hamafac)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/hamafac/)
