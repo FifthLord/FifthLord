@@ -27,4 +27,5 @@
 - ⚡ Fun fact: I love reading Chinese fantasy wuxia 
      And i writing this on my phone
      & This
+     Аварійний коміт - перевірка зв'язку 
 -->
