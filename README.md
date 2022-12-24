@@ -26,6 +26,6 @@
 <!--
 - ⚡ Fun fact: I love reading Chinese fantasy wuxia 
      And i writing this on my phone
-     & This & This, перевірка связі
+     & This & This,
 
 -->
