@@ -13,6 +13,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=264de4)
+![Sass](https://img.shields.io/badge/Sass-090909?style=for-the-badge&logo=Sass)
+![Gulp](https://img.shields.io/badge/Gulp-090909?style=for-the-badge&logo=Gulp)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT)
 
 
